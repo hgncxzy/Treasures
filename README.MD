@@ -12,3 +12,5 @@
 4. [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 5. [阅读清单](https://github.com/ruanyf/reading-list)
 
+### 理财
+
