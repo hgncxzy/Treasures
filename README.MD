@@ -10,7 +10,7 @@
 2. [Android 开发技术周报](https://androidweekly.io)
 3. [互联网上的免费书籍](https://github.com/ruanyf/free-books)
 4. [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
-5. [阅读清单](https://github.com/ruanyf/reading-list)
+5. [阮一峰阅读清单](https://github.com/ruanyf/reading-list)
 
 ### 理财
 
