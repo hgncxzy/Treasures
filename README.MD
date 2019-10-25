@@ -36,6 +36,10 @@
 
    网站：https://c.runoob.com/ 
 
+10. 拷贝兔 -- 拷贝兔是款跨平台文件传输工具，能做到不同设备间文件或文本的临时性迅速分享的应用，支持Windows、Mac、Linux、iOS、Android 平台互传；在线使用，用完即走。比百度网盘方便多了。
+
+    网站：[https://cp.anyknew.com](https://cp.anyknew.com/)
+
 ### 阅读
 
 1. [IT 资讯订阅-RSS 聚合器](https://ohmyrss.com/)
