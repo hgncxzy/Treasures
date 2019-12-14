@@ -43,10 +43,34 @@
 ### 阅读
 
 1. [IT 资讯订阅-RSS 聚合器](https://ohmyrss.com/)
-2. [Android 开发技术周报](https://androidweekly.io)
 3. [互联网上的免费书籍](https://github.com/ruanyf/free-books)
-4. [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 5. [阮一峰阅读清单](https://github.com/ruanyf/reading-list)
+4. [收集喜欢的网址](https://github.com/guanguans/favorite-link)
+
+### 网站 & 社区
+
+1. [Android 开发技术周报](https://androidweekly.io)
+
+2. [扔物线 - Android 分享站](https://hencoder.com)
+
+3. [泡在网上的日子](http://www.jcodecraeer.com)
+
+4. [玩 Android](https://www.wanandroid.com)
+
+5. [Android 导航](http://www.androidguide.cn)
+
+6. [极客导航](https://www.jikedaohang.com)
+
+   
+
+###　规范
+
+1. [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
+2. [约定式提交](https://www.conventionalcommits.org/zh-hans/v1.0.0-beta.4/)
+
+### CSDN 技术博客
+
+1. [专注 Android k开发干货](https://blog.csdn.net/carson_ho)
 
 ### 理财
 
