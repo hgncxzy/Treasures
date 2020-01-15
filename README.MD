@@ -25,6 +25,11 @@
 1. [爱资料工具 -- 爱资料在线工具，为开发运维提供全面的在线工具箱，目前已开发工具270款，包含开发工具、运维工具、常用工具、SEO站长工具等，是好用，方便的在线工具网站。](https://www.toolnb.com/ )
 2. [菜鸟工具 -- 最大的特点是支持各种语言的在线编辑，可以在网页上运行代码。](https://c.runoob.com/ )
 
+### 图片处理
+
+1. [Remove.bg is a free service to remove the background of any photo. It works 100% automatically](https://github.com/theapache64/remove-bg)
+2. 
+
 ### 加密
 
 1. [敏感词防和谐工具](https://we.laogongshuo.com)
@@ -78,4 +83,5 @@
 1. [MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读 app
 2. [git-touch](https://github.com/pd4d10/git-touch) - 开源 github 客户端
 3. [coolweatherjetpack](https://github.com/guolindev/coolweatherjetpack) - 酷欧天气的Jetpack版本实现，采用了MVVM架构。
-4. 
+4. [rally](https://github.com/hashlin/rally) - Material design 金融 app UI
+5. 
