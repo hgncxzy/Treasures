@@ -56,6 +56,8 @@
 
 6. [极客导航](https://www.jikedaohang.com)
 
+7. [码农周刊一周精选分类](https://github.com/rogerzhu/MNWeeklyCategory)
+
    
 
 ###　规范
@@ -70,3 +72,10 @@
 ### 理财
 
 1. [理财资料](https://github.com/hgncxzy/Treasures/tree/master/docs)
+
+### 完整项目
+
+1. [MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读 app
+2. [git-touch](https://github.com/pd4d10/git-touch) - 开源 github 客户端
+3. [coolweatherjetpack](https://github.com/guolindev/coolweatherjetpack) - 酷欧天气的Jetpack版本实现，采用了MVVM架构。
+4. 
