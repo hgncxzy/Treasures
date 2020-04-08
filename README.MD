@@ -1,6 +1,6 @@
 ### 健康
 
-1. [煮健康的粥]( [https://github.com/hgncxzy/Treasures/blob/master/docs/%E5%81%A5%E5%BA%B7/%E7%85%AE%E6%9C%89%E8%90%A5%E5%85%BB%E7%9A%84%E7%B2%A5.MD](https://github.com/hgncxzy/Treasures/blob/master/docs/健康/煮有营养的粥.MD) ) 
+1. [煮健康的粥](https://github.com/hgncxzy/Treasures/blob/master/docs/健康/煮有营养的粥.MD) 
 
 ### 播放器
 
