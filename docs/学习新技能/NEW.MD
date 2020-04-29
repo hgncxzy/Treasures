@@ -7,7 +7,8 @@
 - [4.11 - 学会制作问卷和在线表单 - 01 - 金数据](https://jinshuju.net/)
 - [4.11 - 学会制作问卷和在线表单 - 02 - 问卷网](https://www.wenjuan.com/)
 - [4.18 - 学会微信公众平台的使用](https://mp.weixin.qq.com/)
-- [4.25 - 教你如何录制电脑屏幕](https://www.appinn.com/licecap/)
+- [4.25 - 教你如何录制电脑屏幕方式 1 -使用 LiceCap](https://www.appinn.com/licecap/)
+- [4.25 - 教你如何录制电脑屏幕方式 2 - 使用 WPS]
 - [5.02 - 局域网内不通过数据线在电脑和小米手机之间传输数据](http://www.downza.cn/xy/26058.html)
 
 
