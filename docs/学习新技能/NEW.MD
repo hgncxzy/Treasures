@@ -10,6 +10,8 @@
 - [4.25 - 教你如何录制电脑屏幕方式 1 -使用 LiceCap](https://www.appinn.com/licecap/)
 - [4.25 - 教你如何录制电脑屏幕方式 2 - 使用 WPS]
 - [5.02 - 局域网内不通过数据线在电脑和小米手机之间传输数据](http://www.downza.cn/xy/26058.html)
+- [5.09 - 使用 Word 去除小一寸背景色](https://www.kafan.cn/A/jv4e8p5o3r.html)
+- [5.16 - 使用小米便签制作文字图片]
 
 
 
