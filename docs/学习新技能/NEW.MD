@@ -12,6 +12,8 @@
 - [5.02 - 局域网内不通过数据线在电脑和小米手机之间传输数据](http://www.downza.cn/xy/26058.html)
 - [5.09 - 使用 Word 去除小一寸背景色](https://www.kafan.cn/A/jv4e8p5o3r.html)
 - [5.16 - 使用小米便签制作文字图片]
+- [5.23 - 使用秀米编辑排版微信文章](https://xiumi.us/studio/v5#/wxpack)
+- [5.30 - 生成自己的二维码](https://cli.im/)
 
 
 
