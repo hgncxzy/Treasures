@@ -15,6 +15,8 @@
 - [5.23 - 使用秀米编辑排版微信文章](https://xiumi.us/studio/v5#/wxpack)
 - [5.30 - 生成自己的二维码](https://cli.im/)
 - [6.06 - 挑选一张满意的桌面壁纸](https://www.zhihu.com/question/32762402)
+- [6.13 - 中国亲戚关系计算器](http://passer-by.com/relationship/)
+- [6.20 - 可以全网比价的 App -- 慢慢买 App](http://www.manmanbuy.com/)
 
 
 
