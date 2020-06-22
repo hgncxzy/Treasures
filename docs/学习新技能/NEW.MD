@@ -17,6 +17,8 @@
 - [6.06 - 挑选一张满意的桌面壁纸](https://www.zhihu.com/question/32762402)
 - [6.13 - 中国亲戚关系计算器](http://passer-by.com/relationship/)
 - [6.20 - 可以全网比价的 App -- 慢慢买 App](http://www.manmanbuy.com/)
+- [6.27 - MP3 在线压缩](https://www.mp3smaller.com/zh/)
+- [6.27 - 音乐剪辑器](https://www.qtool.net/cutaudio)
 
 
 
