@@ -74,6 +74,7 @@
 
 1. [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 2. [约定式提交](https://www.conventionalcommits.org/zh-hans/v1.0.0-beta.4/)
+3. [每个人都需要的中文排版指南](https://zhuanlan.zhihu.com/p/25797162)
 
 ### CSDN 技术博客
 

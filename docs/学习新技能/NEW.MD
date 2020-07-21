@@ -22,6 +22,7 @@
 - [7.02 - 使用 windows 自带的便签、截图、快捷锁屏 ]
 - [7.09 - 如何挑选基金](https://github.com/hgncxzy/Treasures/tree/master/docs/理财笔记)
 - [7.16 -每天花 10 分钟读一篇短文 - 每日一文/观止APP推荐](https://meiriyiwen.com/random)
+- [7.22 - 制作 gif 动画](http://www.mychuanyi.com/tools#/)
 
 
 
